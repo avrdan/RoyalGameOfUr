@@ -1,0 +1,8 @@
+.vscode
+*.csproj
+*.sln
+Temp
+obj
+Library
+Assets/TextMesh Pro/
+Logs
